@@ -2,9 +2,6 @@
 int sensorPin = 0;
 //Pin 2 is used for this button
 const uint8_t btn_pin = 2;
-
-
-//uint8_t btn_prev = HIGH;
 uint8_t led_state = LOW;
 
 //Initial setup run upon turning on
